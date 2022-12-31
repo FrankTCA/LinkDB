@@ -1,0 +1,2 @@
+2022-12-31 10:18:54 [scrapy.utils.log] INFO: Scrapy 2.7.1 started (bot: scrapybot)
+2022-12-31 10:18:54 [scrapy.utils.log] INFO: Versions: lxml 4.9.2.0, libxml2 2.10.3, cssselect 1.2.0, parsel 1.7.0, w3lib 2.1.1, Twisted 22.10.0, Python 3.11.1 (main, Dec 31 2022, 09:42:29) [Clang 14.0.0 (clang-1400.0.29.202)], pyOpenSSL 22.1.0 (OpenSSL 3.0.7 1 Nov 2022), cryptography 38.0.4, Platform macOS-13.1-arm64-arm-64bit
